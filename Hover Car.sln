@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{714CEB09-7814-22D9-0318-5556DEF9F42B}") = "Hover Car", "Assembly-CSharp.csproj", "{E240B893-2E74-53C7-154D-2ABD98FBFBB0}"
+EndProject
+Project("{714CEB09-7814-22D9-0318-5556DEF9F42B}") = "Hover Car", "Assembly-CSharp-Editor.csproj", "{FA0CF689-F025-E935-98A1-243F3658F775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E240B893-2E74-53C7-154D-2ABD98FBFBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E240B893-2E74-53C7-154D-2ABD98FBFBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E240B893-2E74-53C7-154D-2ABD98FBFBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E240B893-2E74-53C7-154D-2ABD98FBFBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0CF689-F025-E935-98A1-243F3658F775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0CF689-F025-E935-98A1-243F3658F775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0CF689-F025-E935-98A1-243F3658F775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0CF689-F025-E935-98A1-243F3658F775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
